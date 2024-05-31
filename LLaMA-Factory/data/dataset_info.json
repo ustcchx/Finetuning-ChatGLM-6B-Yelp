@@ -1,0 +1,22 @@
+{
+  "yelp_review_full_test": {
+    "file_name": "yelp_review_full_test.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system",
+      "history": "history"
+    }
+  },
+  "yelp_review_full_train": {
+    "file_name": "yelp_review_full_train.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system",
+      "history": "history"
+    }
+  }
+}
