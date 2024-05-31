@@ -19,5 +19,5 @@
 
 可以发现，微调前后性能发生显著变化，所以我们认定微调结果是有效的。
 
-### 3. 模型下载
+### 3. Huggingface
 [model url](https://huggingface.co/Daxuxu36/Chatglm-6B-base-Finetuning-review-rating)
